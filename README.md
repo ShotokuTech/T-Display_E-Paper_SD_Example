@@ -3,6 +3,8 @@ My mashup of Xinyuan-LilyGO / LilyGo-T5-Epaper-Series SD_Example sketch to add S
 
 New LilyGo T-Display E-Paper.
 
+![](https://github.com/ShotokuTech/T-Display_E-Paper_SD_Example/blob/main/t-display.png)
+
 
 This is too cute to pass up. You know how much I enjoy the LilyGo TTGO T-Display.  Well this is the LilyGo T-Display E-Paper. Let's see how to make it work. Make sure to watch all the way to the end because I show how to connect an SD card reader to this T-Display E-Paper. The T-Display E-Paper is the same form factor and pinout as the original T-Display. But there is an important difference. The T-Display E-Paper uses this T-U2T USB to TTL dongle for uploading programs to the board. Make sure to get one of these when you get the T-Display E-Paper.
 
