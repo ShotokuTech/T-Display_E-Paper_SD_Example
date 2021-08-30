@@ -3,6 +3,8 @@ My mashup of Xinyuan-LilyGO / LilyGo-T5-Epaper-Series SD_Example sketch to add S
 
 New LilyGo T-Display E-Paper.
 
+https://youtu.be/TXHZgwwxZic
+
 ![](https://github.com/ShotokuTech/T-Display_E-Paper_SD_Example/blob/main/t-display.png)
 
 
